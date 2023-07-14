@@ -1,0 +1,167 @@
+@import url(https://fonts.google.com/specimen/Karla?query=karla);
+* {
+    font-family: 'Karla', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor-imagen img {
+    width: 100%;
+}
+
+.contenedor-imagen h1 {
+    position: absolute;
+    top: 47%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 189px;
+    text-align: center;
+}
+
+.music {
+    position: relative;
+    left: 200px;
+    margin: 170px;
+}
+
+.music h2 {
+    color: red;
+}
+
+.music h2,
+h3,
+h4 {
+    font-size: 50px;
+    margin: 5px;
+}
+
+.left img {
+    position: relative;
+    left: 63pc;
+    top: -37pc;
+    width: 500px;
+}
+
+.righ img {
+    position: relative;
+    left: 330px;
+    top: -31pc;
+    width: 500px;
+}
+
+.mus {
+    position: relative;
+    left: 63pc;
+    top: -68pc;
+    width: 500px;
+}
+
+.mus h2 {
+    color: red;
+}
+
+.mus h2,
+h3,
+h4 {
+    font-size: 50px;
+    margin: 5px;
+}
+
+.go {
+    position: relative;
+    top: 90px;
+    background-color: red;
+    width: 120px;
+    height: 45px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.go p {
+    position: relative;
+    top: 13px;
+}
+
+.goo {
+    position: relative;
+    top: 90px;
+    background-color: red;
+    width: 120px;
+    height: 45px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.goo p {
+    position: relative;
+    top: 13px;
+}
+
+.final {
+    position: relative;
+    top: -49pc;
+}
+
+.final h1 {
+    position: absolute;
+    top: 23%;
+    left: 55%;
+    color: #fff;
+    font-size: 81px;
+    margin: 5px;
+}
+
+.final h2 {
+    position: absolute;
+    top: 33%;
+    left: 55%;
+    color: #fff;
+    font-size: 81px;
+    margin: -3px;
+}
+
+.final p {
+    position: absolute;
+    top: 49%;
+    left: 55%;
+    color: #fff;
+    font-size: 21px;
+}
+
+.gooo {
+    position: absolute;
+    top: 69%;
+    background-color: red;
+    height: 60px;
+    width: 163px;
+    border-radius: 20px;
+    left: 57%;
+}
+
+.gooo p {
+    position: relative;
+    top: -3px;
+    margin-left: -58px;
+}
+
+.todo {
+    margin: -49pc;
+    background-color: red;
+    height: 20pc;
+}
+
+.primero {
+    position: absolute;
+    left: 20pc;
+    margin-top: 5pc;
+}
+
+.primero h1 {
+    position: absolute;
+}
+
+.primero p {
+    position: relative;
+    top: 7pc;
+}
